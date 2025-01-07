@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="Imagens/ia dash.jpeg">
+    <img width="100" src="Imagens/Dreamina.jpeg">
 </p>
 
 
