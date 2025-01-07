@@ -1,6 +1,5 @@
 <p align="center">
-    <img width="100" src=".Imagens/Dashboard.jpg">
-    <img width="100" src=".github/assets/em grupo.png">
+    <img width="100" src="Imagens/Dashboard.jpg">
 </p>
 
 
@@ -18,7 +17,7 @@
 />
 </p>
 
-# Projeto Dorganizar sua vida Financeira com Planilhas Inteligentes e IA
+# Projeto organizar sua vida Financeira com Planilhas Inteligentes e IA
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso que realizei na plataforma da [DIO](https://dio.me)
@@ -37,8 +36,7 @@ seguem abaixo.
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+Prompt                                                                                                                                                                                                                                                                         |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
                                                      |
 | conteúdo | utilize a tabela de dados contida no documento acima, como base de conhecimento e me gere alguns insights dessas tabelas de gastos|
 
@@ -58,7 +56,7 @@ Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e
       align=left 
       margin=10 
       width=80 
-      src="assets/adauta.jpeg"
+      src="Imagens/adauta.jpeg"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
