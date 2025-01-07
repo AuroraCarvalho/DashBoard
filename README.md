@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="Imagens/ia dash.jpg">
+    <img width="100" src="Imagens/ia dash.jpeg">
 </p>
 
 
@@ -36,8 +36,7 @@ seguem abaixo.
 
 ChatGPT：
 
-Prompt                                                                                                                                                                                                                                                                        -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                     |
+Prompt
 | conteúdo | utilize a tabela de dados contida no documento acima, como base de conhecimento e me gere alguns insights dessas tabelas de gastos|
 
 ## ✨ Features
