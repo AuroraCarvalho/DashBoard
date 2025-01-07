@@ -36,7 +36,7 @@ seguem abaixo.
 
 ChatGPT：
 
-Prompt                                                                                                                                                                                                                                                                         |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+Prompt                                                                                                                                                                                                                                                                        -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      |
 | conteúdo | utilize a tabela de dados contida no documento acima, como base de conhecimento e me gere alguns insights dessas tabelas de gastos|
 
@@ -58,12 +58,11 @@ Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e
       width=80 
       src="Imagens/adauta.jpeg"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspAdauta carvalho<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/AuroraCarvalho">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/adauta-carvalho/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/adauta-carvalho-exe">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/aurora_carvalho15/">
     Instagram</a>
