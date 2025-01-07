@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="Imagens/Dashboard.jpg">
+    <img width="100" src="Imagens/ia dash.jpg">
 </p>
 
 
@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="Imagens/ia dash.jpg"
+    src="Imagens/Dashboard.jpg"
     width="400"  
 />
 </p>
